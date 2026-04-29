@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 10 10:35:50 2026
 
-@author: Shahuraj Mane
+@author: Pranjal Jadhav
 """
 
 speed =  int(input("Enter speed km/h:"))
