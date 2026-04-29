@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 12 20:45:38 2026
 
-@author: Shahuraj Mane
+@author: Pranjal Jadhav
 """
 
 salary = int(input("Enter your per month salary: "))
